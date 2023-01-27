@@ -64,7 +64,7 @@ print(list_of_nums)
 ```
 
 ## Output:
-![output](/output1.png)
+![outpu](/output1.png)
 ![output](/output2.png)
 
 
