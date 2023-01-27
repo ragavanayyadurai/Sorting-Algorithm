@@ -44,9 +44,9 @@ print(arr)
 ```
 ii)	#Insertion Sort
 ```python
-Program to sort the elements in the list using the Insertion Sort algorithm.
-Developed by: Abishek Xavier A
-RegisterNumber: 22008833
+#Program to sort the elements in the list using the Insertion Sort algorithm.
+#Developed by: Ragavendran A
+#RegisterNumber: 22008885
 
 def insertion_sort(nums):
     for i in range(1,len(nums)):
